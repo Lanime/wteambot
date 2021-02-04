@@ -1,2 +1,0 @@
-# wteambot
-Bot W Team
